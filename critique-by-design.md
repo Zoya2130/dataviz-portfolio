@@ -118,8 +118,8 @@ The data only has mean scores, so it does not show the share of students at each
 - **Data:** PISA2025.xlsx, downloaded from MakeoverMonday. It has mean scores for 85 countries and regions. The original source is the OECD.
 - **OECD:** [PISA 2025 Results (Volume I)](https://www.oecd.org/en/publications/pisa-2025-results-volume-i_73451bc5-en.html), Student performance in PISA 2025.
 - **MakeoverMonday:** https://makeovermonday.vercel.app/dataset/pisa-2025
-- **Tools:** Tableau Desktop and Tableau Public. The map background is from Mapbox and OpenStreetMap.
+- **Tools:** Tableau Desktop and Tableau Public.
 - Stephen Few, "Data Visualization Effectiveness Profile," Perceptual Edge, 2017.
 - Scott Berinato, *Good Charts*, Chapters 3 and 4.
-- Fernanda Martin, "Design and Redesign in Data Visualization" (Medium).
-- Evan Peck, "Data is Personal. What We Learned from 42 Interviews in Rural America" (Medium).
+- Fernanda Martin, "Design and Redesign in Data Visualization".
+- Evan Peck, "Data is Personal. What We Learned from 42 Interviews in Rural America".
