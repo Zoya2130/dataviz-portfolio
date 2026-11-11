@@ -107,7 +107,7 @@ About one third of the countries and regions in this data score above the OECD a
 
 The six highest places are all in East and Southeast Asia. They are Macao (China), Singapore, B-S-J-Z (China), Japan, Chinese Taipei, and Hong Kong (China). Macao is the highest, with 572 points. Most of the other places above the average are in Europe. Australia, New Zealand, Canada, and the United States are also above it. In this data, every place in Latin America and in the Middle East and North Africa is below the average.
 
-The OECD also reports that about two thirds of students in OECD countries reach Level 3 or above. My chart cannot show this, because my data only has average scores. I put it in the note instead.
+This is a different number from the one third above. One third counts countries and regions. Two thirds counts students. The OECD also reports that about two thirds of students in OECD countries reach Level 3 or above. My chart cannot show this, because my data only has average scores. I put it in the note instead.
 
 ### Limits of my version
 
