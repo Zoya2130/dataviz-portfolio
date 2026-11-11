@@ -10,7 +10,7 @@
 
 **Source:** OECD, *Student performance in PISA 2025* (PISA 2025 Results, Volume I).
 
-![The original chart](https://zoya2130.github.io/dataviz-portfolio/original.png)
+![The original chart](original%20question.webp)
 
 *Original chart by the OECD. Shown here for critique and redesign.*
 
