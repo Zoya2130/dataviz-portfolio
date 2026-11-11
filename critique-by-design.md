@@ -51,7 +51,7 @@ My redesign plan had three parts:
 2. Show one number for each country: the share of students at Level 3 and above.
 3. Highlight a few countries and the OECD average.
 
-The MakeoverMonday data does not have the share of students at each level. It only has the mean score for each country. So I could not do the second part. I had to think about a new story. I decided to show which countries score above the OECD average. I added a note to explain Level 3. The note also says what the OECD reports: about two thirds of students in OECD countries reach Level 3 or above.
+The MakeoverMonday data does not have the share of students at each level. It only has the mean score for each country. So I could not do the second part. I had to think about a new story. I decided to show which countries score above the OECD average. The OECD reports that about two thirds of students in OECD countries reach Level 3 or above, but my data cannot show this.
 
 ### What I tried in Tableau
 
@@ -88,7 +88,7 @@ I talked to three classmates from my group.
 |---|---|
 | The legend said "Above 500" and "At or below 500". People did not know what 500 means. A note does not fix this. | I changed the legend to "Above the OECD average" and "At or below the OECD average". |
 | The circles on the map and the bar chart showed the same information. | I removed the circles. The bar chart now uses a blue gradient, from the most points above the average to the fewest. |
-| People did not know what the test is or what the OECD is. This showed me that the title is hard for a general reader. | I wrote a new title and added a short note under it. The note explains PISA and the OECD. |
+| People did not know what the test is or what the OECD is. This showed me that the title is hard for a general reader. | I wrote a new title in plain words: "About 1/3 of countries (regions) beat the OECD average in a global test of computer problem solving." I also added a short note that gives the OECD average (500 points) and explains the colors. I did not explain what PISA and the OECD are. |
 | Some people suggested a color gradient on the map, or zoomed maps for small places. | I did not make this change. See the next paragraph. |
 
 **What I did not do, and why.** I agree with the idea. The highest scoring places are small, so a gradient on the map would not help the reader see them. A zoomed view of small places would help. With other tools, I could draw each place larger, like learning the shape of each state in a geography class. I could not do this in Tableau. It was too hard for me technically, and it would make the page too busy. So I chose a middle path. I kept two colors on the map and used the bar chart to show the amount.
@@ -107,11 +107,11 @@ About one third of the countries and regions in this data score above the OECD a
 
 The six highest places are all in East and Southeast Asia. They are Macao (China), Singapore, B-S-J-Z (China), Japan, Chinese Taipei, and Hong Kong (China). Macao is the highest, with 572 points. Most of the other places above the average are in Europe. Australia, New Zealand, Canada, and the United States are also above it. In this data, every place in Latin America and in the Middle East and North Africa is below the average.
 
-This is a different number from the one third above. One third counts countries and regions. Two thirds counts students. The OECD also reports that about two thirds of students in OECD countries reach Level 3 or above. My chart cannot show this, because my data only has average scores. I put it in the note instead.
+This is a different number from the one third above. One third counts countries and regions. Two thirds counts students. The OECD also reports that about two thirds of students in OECD countries reach Level 3 or above. My chart cannot show this, because my data only has average scores. I only mention it on this page.
 
 ### Limits of my version
 
-The data only has mean scores, so it does not show the share of students at each level. Six countries and regions have no computational problem solving score. B-S-J-Z (China) means four Chinese provinces and cities, which are Beijing, Shanghai, Jiangsu, and Zhejiang, but on the map it is shown on all of China. Singapore, Hong Kong, and Macao are very small on a world map, so the bar chart lists them. The bar chart shows only the 27 countries and regions above the average.
+The data only has mean scores, so it does not show the share of students at each level. Six countries and regions have no computational problem solving score. B-S-J-Z (China) means four Chinese provinces and cities, which are Beijing, Shanghai, Jiangsu, and Zhejiang, but on the map it is shown on all of China. Singapore, Hong Kong, and Macao are very small on a world map, so the bar chart lists them. The bar chart shows only the 27 countries and regions above the average. My chart also does not explain what PISA and the OECD are. This is still a weakness for a general reader.
 
 ## References
 
