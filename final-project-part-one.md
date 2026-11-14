@@ -190,24 +190,20 @@ The video uses the same four acts as the story arc. A voiceover explains each ac
 ## References
 
 - ProPublica Nonprofit Explorer. Form 990 filings for the seven organizations listed in [The data](#3-the-data).
-- SMU DataArts and Theatre Communications Group. [Theatre Facts 2021](https://culturaldata.org/learn/data-at-work/2023/tcg-theatre-facts-2021/).
-- SMU DataArts. [PPP Data on Preserving Jobs in the Arts and Culture Sector](https://culturaldata.org/learn/data-at-work/2020/ppp-data-on-preserving-jobs-in-the-arts-culture-sector/).
-- Theatre Communications Group. [Theatre Facts 2022 press release](https://tcg.org/Web/News/Press-Releases/Theatre-Facts-2022-Report-Published.aspx).
-- SMU DataArts. [Theatre Facts 2023](https://culturaldata.org/learn/data-at-work/2025/theatre-facts-2023/).
-- American Theatre. [Theatre Facts 2023 coverage](https://americantheatre.org/?p=87762).
-- SMU DataArts. [National Trends 2024, Funding Sources](https://culturaldata.org/national-trends-2024/funding-sources/).
+- SMU DataArts and Theatre Communications Group. [Reduced Expenses and Growth in Government Support Kept Theatres Afloat in 2021](https://culturaldata.org/learn/data-at-work/2023/tcg-theatre-facts-2021/).
+- SMU DataArts. [PPP Data on Preserving Jobs in the Arts & Culture Sector](https://culturaldata.org/learn/data-at-work/2020/ppp-data-on-preserving-jobs-in-the-arts-culture-sector/).
+- Theatre Communications Group. [Theatre Communications Group Releases 43rd Annual Research Report: Theatre Facts 2022](https://tcg.org/Web/News/Press-Releases/Theatre-Facts-2022-Report-Published.aspx).
+- SMU DataArts. [Nonprofit Theatres Face Ongoing Financial Pressures as Pandemic Relief Wanes](https://culturaldata.org/learn/data-at-work/2025/theatre-facts-2023/).
+- American Theatre. [Out of the Frying Pan: Theatre Facts 2023](https://americantheatre.org/?p=87762).
+- SMU DataArts. [As Relief Funding Dwindles, Arts and Culture Seek New Revenue Sources](https://culturaldata.org/national-trends-2024/funding-sources/).
 - Pittsburgh Magazine. [Arts in Pittsburgh: Can the Show Go On?](https://www.pittsburghmagazine.com/arts-in-pittsburgh-can-the-show-go-on/)
-- WESA. [Pittsburgh arts groups have returned to indoor shows, but not all patrons have followed](https://www.wesa.fm/arts-sports-culture/2021-12-08/pittsburgh-arts-groups-have-returned-to-indoor-shows-but-not-all-patrons-have-followed) (December 2021).
-- WESA. [Pittsburgh arts groups still face pandemic challenges](https://www.wesa.fm/arts-sports-culture/2022-07-11/pittsburgh-performance-troupes-still-face-pandemic-challenges) (July 2022).
-- PA Humanities, Greater Pittsburgh Arts Council, and Greater Philadelphia Cultural Alliance. [PA CultureCheck 2025, Greater Pittsburgh Supplemental Regional Report](https://www.pittsburghartscouncil.org/sites/default/files/documents/Pittsburgh%20-%20PA%20CultureCheck%20Supplemental%20Report%20-%202025%20v1.1.pdf).
-- SMU DataArts. [Attack Theatre case study](https://culturaldata.org/learn/case-studies/attack-theatre-1).
-- Pittsburgh Public Theater. [About](https://ppt.org/ppt_home/about).
-- American Theatre. [Know a Theatre: City Theatre Company of Pittsburgh](https://americantheatre.org/2015/08/19/know-a-theatre-city-theatre-company-of-pittsburgh).
-- Quantum Theatre. [Experiments with the language and location of theatre](https://quantumtheatre.com/experiments-with-the-language-and-location-of-theatre).
+- WESA. [Pittsburgh arts groups have returned to indoor shows, but not all patrons have followed](https://www.wesa.fm/arts-sports-culture/2021-12-08/pittsburgh-arts-groups-have-returned-to-indoor-shows-but-not-all-patrons-have-followed).
+- WESA. [Pittsburgh performance troupes still face pandemic challenges](https://www.wesa.fm/arts-sports-culture/2022-07-11/pittsburgh-performance-troupes-still-face-pandemic-challenges).
+- PA Humanities, Greater Pittsburgh Arts Council, and Greater Philadelphia Cultural Alliance. [Greater Pittsburgh Supplemental Regional Report](https://www.pittsburghartscouncil.org/sites/default/files/documents/Pittsburgh%20-%20PA%20CultureCheck%20Supplemental%20Report%20-%202025%20v1.1.pdf).
 
 ## AI acknowledgements
 
-I used Microsoft Copilot to collect and create the data table: [Shared Copilot Chat](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiOGZkMDQzMGYtYWYxZS00MzhmLTliYWEtZjg5ZDdhNzgxMjA5IiwiY29udmVyc2F0aW9uSWQiOiIxNWQ2OWZkMC0yOWQ1LTQ1NDktYTU1YS00MjhmOTJiMThlYjIifQ%3D%3D)
+Used Microsoft Copilot to collect and create the data table: [Shared Copilot Chat](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiOGZkMDQzMGYtYWYxZS00MzhmLTliYWEtZjg5ZDdhNzgxMjA5IiwiY29udmVyc2F0aW9uSWQiOiIxNWQ2OWZkMC0yOWQ1LTQ1NDktYTU1YS00MjhmOTJiMThlYjIifQ%3D%3D)
 
 ---
 
