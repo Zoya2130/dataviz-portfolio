@@ -2,7 +2,7 @@
 
 # Final Project, Part 1: How Did Pittsburgh Performing Arts Groups Pay the Bills When the Shows Stopped?
 
-Zhongyao Wang | 94-870 Data Stories | Carnegie Mellon University
+Zoe Wang | 94-870 Telling Stories with Data | Carnegie Mellon University
 
 **On this page:** [1. Outline](#1-outline) | [2. Initial sketches](#2-initial-sketches) | [3. The data](#3-the-data) | [4. Method and medium](#4-method-and-medium) | [References](#references)
 
