@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Final Project, Part 1: From Tickets to Donors -- How Seven Pittsburgh Arts Nonprofits Survived the Pandemic
+# Final Project, Part 1: How Seven Pittsburgh Arts Nonprofits Survived the Pandemic
 
 Zoe Wang | 94-870 Telling Stories with Data | Carnegie Mellon University
 
