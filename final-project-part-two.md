@@ -86,8 +86,8 @@ I removed all names and personal details. The interviewees are described in gene
 
 | Interviewee | Who they are | In your own words, what is this story about? | Which chart was easiest? Which was hardest? | If you could change only one thing, what would it be? |
 |-------------|--------------|-----------------------------------------------|---------------------------------------------|--------------------------------------------------------|
-| Friend A | Often goes to live performances | Understood the story. Said the design is "like data news." | Did not pick one easiest chart. Hardest: the 2022 revenue chart. It has "too many grey blocks" and feels crowded. This distracts from the message. The chart of 2019 compared with the latest year has a new form, but it "looks more like a comparison across groups than a change over time." Also, some charts did not open in one browser. | Change the white chart background. It "looks sudden" on the page. Also show only 2019 to 2022 in the revenue chart, and try a line chart for the 2019 and latest year comparison. |
-| Friend B | Has design experience | Summarized it well: the story follows the tax filings of seven Pittsburgh performing arts groups from 2017 to 2025. It shows how their income was structured before the pandemic, during the shutdown, and today. When the shows stopped, donations kept the groups going. Since then their paths have been different, so there is "no single answer." | Easiest: the income structure chart. It is "very direct and effective." Hardest: the 2020 to 2021 line chart. "I did not understand it." | Make the chart background the same color as the web page. |
+| Friend A | Often goes to live performances | Understood the story. Said the design is "like data news." | Hardest: the 2022 revenue chart. It has "too many grey blocks" and feels crowded. This distracts from the message. The chart of 2019 compared with the latest year has a new form, but it "looks more like a comparison across groups than a change over time." Also, some charts did not open in one browser. | Change the white chart background. It "looks sudden" on the page. Also show only 2019 to 2022 in the revenue chart, and try a line chart for the 2019 and latest year comparison. |
+| Friend B | Has design experience | Summarized it well: the story follows the tax filings of seven Pittsburgh performing arts groups from 2017 to 2025. It shows how their income was structured before the pandemic, during the shutdown, and today. When the shows stopped, donations kept the groups going. Since then their paths have been different, so there is "no single answer." | Easiest: the income structure chart. It is "very direct and effective." Hardest: the 2020 to 2021 line chart. "I did not understand it." | Make the chart background the same color as the web page. Also said the bar colors could match the page style better. |
 | Friend C | Studies arts management | Seven Pittsburgh arts groups, and how their income sources changed before and after the pandemic. Ticket income fell sharply and donations paid for most costs. After the pandemic, ticket income did not return to the old level. The story reminds arts groups not to depend on one source of income. | Easiest: the comparison of donation share before and after the pandemic. Hardest: the revenue chart that puts all groups and many years together. "Too much information is mixed together. I had to look for a long time." | Split the mixed revenue chart so each group is shown on its own. "Then it is clearer to read." |
 
 **Where the interviewees agreed**
@@ -102,18 +102,20 @@ I removed all names and personal details. The interviewees are described in gene
 - The chart of donation share in 2019 compared with the latest year. Friend C found it the easiest chart. Friend A liked the new form, but said it looks like a comparison across groups, not a change over time.
 - Line charts. Friend A suggested a line chart for the 2019 and latest year comparison. Friend B found the 2020 to 2021 line chart the hardest. So a line chart is not always the clearer choice.
 - How to fix the crowded revenue chart. Friend A wants fewer years (2019 to 2022). Friend C wants each group shown separately.
-- Only Friend A said that some charts did not open. I had the same problem and needed to change browsers.
+
+**Open questions**
+
+- **Charts not opening.** Only Friend A and I had the problem that some charts did not open in one browser. I will check if this is a browser problem before I decide if I need to change anything.
+- **Bar colors and page style.** Friend B said the bar colors could match the page style better. I chose the current colors so that readers with color blindness can see the difference clearly. I need to check if I can match the page style and still keep the colors easy to see for everyone.
 
 ### e. Changes I plan to make in Part 3
 
 | What I learned | Who said it | Change I plan to make |
 |----------------|-------------|------------------------|
 | The white chart background looks out of place | A, B | Change the background of all Tableau charts to match the Shorthand page color. |
-| Some charts did not open in one browser | A (I saw it too) | Test the charts in Chrome, Safari, and Firefox. Add a link under each chart: "Open this chart in Tableau Public." |
-| The 2022 revenue chart is crowded | A, C | Show only 2019 to 2022. Make each group chart larger. Color the three groups with record revenue in 2022, and make the other groups light grey. |
-| The 2020 to 2021 line chart is hard to understand | B | Put each group name at the end of its line. Mark the 2021 values. Add one short sentence on how to read it: each line is one group, and a higher line means more reliance on donations. |
-| The 2019 and latest year chart looks like a comparison across groups | A (C found it easiest) | Keep this chart type, because C understood it fast. Label both ends "2019" and "Latest year." Use color to show if a group went up or down. Test it again before I decide to use a line chart. |
-| The main message was clear to all three readers | A, B, C | Keep the story order and the main text. Make only small edits. |
+| The 2022 revenue chart is crowded | A, C | Replace the bar chart with a line chart that has a light filled area under each line. Keep each group in its own small chart. Draw a line at 2022 to mark the high point. Fill the 2022 area with a more saturated color, and keep the other years light. |
+| The 2020 to 2021 line chart is hard to understand | B | Keep the overall design. I will test ways to show the trend more clearly. |
+| The chart of donation share in 2019 and the latest year looks like a comparison across groups | A (C found it easiest) | I will try changing the axes to see how it works. |
 
 ---
 
