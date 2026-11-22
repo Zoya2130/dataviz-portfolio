@@ -66,13 +66,9 @@ I will interview three people I know personally. I chose them to be different fr
 
 Each interview takes about 10 minutes.
 
-**Warm up**
-
-- How comfortable are you with charts and numbers, from 1 to 5?
-
 **Reading the story**
 
-- Please read the story from the top. I will not explain anything while you read.
+- Please read the story from the top.
 
 **After reading**
 
@@ -81,8 +77,6 @@ Each interview takes about 10 minutes.
 - If you could change only one thing, what would it be?
 
 ### d. Interview findings
-
-I removed all names and personal details. The interviewees are described in general terms only.
 
 | Interviewee | Who they are | In your own words, what is this story about? | Which chart was easiest? Which was hardest? | If you could change only one thing, what would it be? |
 |-------------|--------------|-----------------------------------------------|---------------------------------------------|--------------------------------------------------------|
@@ -104,8 +98,8 @@ I removed all names and personal details. The interviewees are described in gene
 
 **Open questions**
 
-- **Charts not opening.** Only Friend A and I had the problem that some charts did not open in one browser. I will check if this is a browser problem before I decide if I need to change anything.
-- **Bar colors and page style.** Friend B said the bar colors could match the page style better. I chose the current colors so that readers with color blindness can see the difference clearly. I need to check if I can match the page style and still keep the colors easy to see for everyone.
+- **Charts not opening.** Only Friend A and I had the problem that some charts did not open in one browser.
+- **Bar colors and page style.** Friend B said the bar colors could match the page style better. I chose the current colors so that readers with color blindness can see the difference clearly.
 
 ### e. Changes I plan to make in Part 3
 
