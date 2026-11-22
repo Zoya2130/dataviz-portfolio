@@ -126,4 +126,4 @@ I removed all names and personal details. The interviewees are described in gene
 
 ## AI acknowledgements
 
-- **Microsoft Copilot:** I used it to collect the Form 990 data. I checked the numbers.
+- **Microsoft Copilot:** Used it to collect the Form 990 data
