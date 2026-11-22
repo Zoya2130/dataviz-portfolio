@@ -126,4 +126,3 @@ I removed all names and personal details. The interviewees are described in gene
 ## AI acknowledgements
 
 - **Microsoft Copilot:** I used it to collect the Form 990 data. I checked the numbers.
-- **Claude (Anthropic):** I used it to help draft and edit the story text and chart captions, to guide me step by step in Tableau and Shorthand, and to help write the user research questions and this page. I made the final choices. I built the Excel database, made the charts in Tableau, and built the story in Shorthand. I did the interviews myself. Claude helped me organize the notes into the findings table and the list of changes.
