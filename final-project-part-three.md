@@ -6,6 +6,8 @@
 
 [My GitHub repository](https://github.com/Zoya2130/dataviz-portfolio)
 
+**Note:** This story has five Tableau charts. Some browsers may not show them. If you see a large blank space between the text, please try another browser.
+
 # Changes made since Part II
 
 After Part II, I used feedback from three friend interviews and my in class critique group to revise the story. I changed the charts first and then updated the text.
