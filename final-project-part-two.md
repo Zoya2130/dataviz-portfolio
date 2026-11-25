@@ -101,6 +101,16 @@ Each interview takes about 10 minutes.
 - **Charts not opening.** Only Friend A and I had the problem that some charts did not open in one browser.
 - **Bar colors and page style.** Friend B said the bar colors could match the page style better. I chose the current colors so that readers with color blindness can see the difference clearly.
 
+#### In class critique
+
+**My critique group:** Ashwin Raj and Keven Chien.
+
+**Top three observations from my group**
+
+1. The 2022 revenue chart has too much information. Both group members understood it in the end, but it took time. Keven needed about 10 seconds to understand it. Ashwin suggested showing only the 2022 data.
+2. In the Now section, put the 2019 income structure chart on the left, next to the latest year chart, so readers can compare them.
+3. Sort the groups by organization size.
+
 ### e. Changes I plan to make in Part 3
 
 | What I learned | Who said it | Change I plan to make |
@@ -109,6 +119,7 @@ Each interview takes about 10 minutes.
 | The 2022 revenue chart is crowded | A, C | Replace the bar chart with a line chart that has a light filled area under each line. Keep all seven groups, each in its own small chart. Draw a line at 2022 to mark the high point. Fill the 2022 area with a darker color only for the three groups that had their highest revenue in 2022, and keep the other areas light. Another option is to show only these three groups and explain in the text that the other four did not have their highest year in 2022. |
 | The 2020 to 2021 line chart is hard to understand | B | Keep the overall design. I will test ways to show the trend more clearly. |
 | The chart of donation share in 2019 and the latest year looks like a comparison across groups | A (C found it easiest) | I will try changing the axes to see how it works. |
+| The groups appear in different orders in different charts | Critique group | Sort all seven groups by organization size, and use the same order in every chart. |
 
 ---
 
