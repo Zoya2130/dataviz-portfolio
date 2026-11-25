@@ -44,6 +44,8 @@ I also thought about color blind readers. I chose colors in all charts that they
 All data sources, news sources, and photo credits are listed in the [Shorthand story](https://carnegiemellon.shorthandstories.com/who-pays-for-the-show/index.html).
 
 * Data: IRS Form 990 filings from [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/)
+* Earlier work and full source list: [Part I](final-project-part-one) and [Part II](final-project-part-two)
+* [Data file (Excel)](pittsburgh_arts_990_2017-2025.xlsx)
 
 ## AI acknowledgements
 
