@@ -1,97 +1,37 @@
 | [home page](https://zoya2130.github.io/dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Zoe Wang's Data Visualization Portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+This is my public portfolio for Telling Stories with Data (94-870) at Carnegie Mellon University. It shows my data visualization work from this course.
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU. I will collect my data visualization work here.
+## About me
 
-# About me
 I am a graduate student in Arts Management at CMU. I have experience in theater programming, development support, and event coordination. I am skilled in Salesforce database management and international touring coordination.
 
-# What I hope to learn
+## What I hope to learn
+
 In this course, I hope to learn how to show data in clear and attractive charts. I want to use Tableau to complete my assignments. I also want to learn the main principles and methods of chart design.
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+## My work
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+### Final project: Who Pays for the Show?
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+This project follows the income of seven Pittsburgh performing arts nonprofits before, during, and after the pandemic.
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+[Read the final story](https://carnegiemellon.shorthandstories.com/who-pays-for-the-show/index.html)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+![Story arc of the final project](Final_Project_Story_Arc.png)
 
-### Changing text
+How I built it: [Part I: Outline and sketches](final-project-part-one) | [Part II: Wireframes and user research](final-project-part-two) | [Part III: Final story](final-project-part-three)
 
-You can change text, like this: 
+### Critique and redesign: PISA 2025
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
+I critiqued an OECD chart, tested my ideas with classmates, and built a new map and bar chart in Tableau.
 
-### Creating tables
+[View the redesign](critique-by-design)
 
-You can build tables like this: 
+### Visualizing government debt
 
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+A heat map and a line chart show government debt as a percent of GDP from 2007 to 2024.
 
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+[View the charts](dataviz-examples)
